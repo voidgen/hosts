@@ -1,12 +1,10 @@
-#UPDATE:2013-04-02 21:56
+#UPDATE:2013-05-18 00£º05
 
 127.0.0.1	localhost
 #SmartHosts START
 
 #Google Services START
 
-203.208.46.200	chatenabled.mail.google.com
-203.208.46.200	static.googleusercontent.com
 203.208.46.200	0.docs.google.com
 203.208.46.200	0.drive.google.com
 203.208.46.200	1.docs.google.com
@@ -113,6 +111,16 @@
 203.208.46.200	docs8.google.com
 203.208.46.200	docs9.google.com
 203.208.46.200	drive.google.com
+203.208.46.200	drive0.google.com
+203.208.46.200	drive1.google.com
+203.208.46.200	drive2.google.com
+203.208.46.200	drive3.google.com
+203.208.46.200	drive4.google.com
+203.208.46.200	drive5.google.com
+203.208.46.200	drive6.google.com
+203.208.46.200	drive7.google.com
+203.208.46.200	drive8.google.com
+203.208.46.200	drive9.google.com
 203.208.46.200	earth.google.com
 203.208.46.200	encrypted.google.com
 203.208.46.200	encrypted-tbn.l.google.com
@@ -323,6 +331,13 @@
 203.208.46.202	doc-14-7o-docs.googleusercontent.com
 203.208.46.202	feedback.googleusercontent.com
 203.208.46.202	googlehosted.l.googleusercontent.com
+203.208.46.202	gp0.googleusercontent.com
+203.208.46.202	gp1.googleusercontent.com
+203.208.46.202	gp2.googleusercontent.com
+203.208.46.202	gp3.googleusercontent.com
+203.208.46.202	gp4.googleusercontent.com
+203.208.46.202	gp5.googleusercontent.com
+203.208.46.202	gp6.googleusercontent.com
 203.208.46.202	hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
 203.208.46.202	i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
 203.208.46.202	images1-focus-opensocial.googleusercontent.com
@@ -335,6 +350,7 @@
 203.208.46.202	images8-focus-opensocial.googleusercontent.com
 203.208.46.202	images9-focus-opensocial.googleusercontent.com
 203.208.46.202	images-docs-opensocial.googleusercontent.com
+203.208.46.202	images-oz-opensocial.googleusercontent.com
 203.208.46.202	k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
 203.208.46.202	lh1.googleusercontent.com
 203.208.46.202	lh2.googleusercontent.com
@@ -358,6 +374,7 @@
 203.208.46.202	s5.googleusercontent.com
 203.208.46.202	s6.googleusercontent.com
 203.208.46.202	spreadsheets-opensocial.googleusercontent.com
+203.208.46.202	static.googleusercontent.com
 203.208.46.202	t.doc-0-0-sj.sj.googleusercontent.com
 203.208.46.202	themes.googleusercontent.com
 203.208.46.202	translate.googleusercontent.com
@@ -493,19 +510,13 @@
 203.208.46.200	android.googlesource.com
 203.208.46.200	auth.keyhole.com
 203.208.46.200	chrome.angrybirds.com
-203.208.46.200	chromium.org
-203.208.46.200	codereview.chromium.org
-203.208.46.200	dev.chromium.org
 203.208.46.200	developer.android.com
-203.208.46.200	developer.chrome.com
 203.208.46.200	domains.googlesyndication.com
 203.208.46.200	earthengine.googlelabs.com
 203.208.46.200	feeds.feedburner.com
 203.208.46.200	g.co
-203.208.46.200	gmail.com
 203.208.46.200	goo.gl
 203.208.46.162	listen.googlelabs.com
-203.208.46.200	m.gmail.com
 203.208.46.200	m.googlemail.com
 203.208.46.200	market.android.com
 203.208.46.163	ngrams.googlelabs.com
@@ -514,8 +525,6 @@
 203.208.46.222	ssl.google-analytics.com
 173.194.76.128	static.panoramio.com
 203.208.46.200	www.blogger.com
-203.208.46.200	www.chromium.org
-203.208.46.200	www.gmail.com
 203.208.46.200	www.googleadservices.com
 203.208.46.222	www.google-analytics.com
 203.208.46.200	www.googlelabs.com
@@ -528,6 +537,7 @@
 #Google Services END
 
 #Facebook Start
+69.171.235.16	5-pct.channel.facebook.com
 173.252.100.17	api-read.facebook.com
 173.252.100.17	api.facebook.com
 69.171.237.36	apps.facebook.com
@@ -563,7 +573,7 @@
 69.171.233.33	orcart.facebook.com
 69.171.245.18	photos-ak-ash1.facebook.com
 69.171.245.18	photos-ash1.facebook.com
-66.220.149.90	pixel.facebook.com
+173.252.100.27	pixel.facebook.com
 118.214.190.105	profile.ak.facebook.com
 61.213.189.114	profile.ak.fbcdn.net
 69.171.247.22	s-static.facebook.com
@@ -577,7 +587,7 @@
 69.63.189.76	star.facebook.com
 61.213.189.98	static.ak.facebook.com
 65.32.34.136	static.ak.fbcdn.net
-69.171.229.17	upload.facebook.com
+173.252.100.27	upload.facebook.com
 66.220.144.41	vpn.tfbnw.net
 120.29.145.50	vthumb.ak.fbcdn.net
 66.220.151.31	vupload.facebook.com
@@ -585,7 +595,6 @@
 173.252.100.17	www.facebook.com
 69.171.242.72	zh-CN.facebook.com
 #Facebook End
-
 
 #Flickr START
 98.136.43.76	geo.yahoo.com
@@ -629,6 +638,74 @@
 98.138.250.88	ne1.farm7.staticflickr.com
 #Flickr END
 
+#Twitter START
+199.16.156.18	twitter.com
+199.16.156.18	mobile.twitter.com
+199.16.156.18	api.twitter.com
+
+199.16.156.47	pic.twitter.com
+199.59.148.136	stream.twitter.com
+199.59.148.137	sitestream.twitter.com
+199.59.148.135	betastream.twitter.com
+199.59.148.148	upload.twitter.com
+199.59.149.137	dev.twitter.com
+199.59.149.91	pay.twitter.com
+199.59.148.149	urls-real.api.twitter.com
+199.16.156.81	userstream.twitter.com
+199.16.156.12	support.twitter.com
+
+#199.59.148.210	t.co
+69.58.188.34	bitly.com
+
+208.87.33.151	api.mobilepicture.com
+
+199.59.148.16	a0.twimg.com
+199.59.148.16	a1.twimg.com
+199.59.148.16	p.twimg.com
+184.169.75.33	si0.twimg.com
+184.169.75.33	si1.twimg.com
+184.169.75.33	si2.twimg.com
+184.169.75.33	si3.twimg.com
+184.169.75.33	si4.twimg.com
+184.169.75.33	si5.twimg.com
+199.16.156.77	image-proxy-origin.twimg.com
+
+209.17.70.144	oi40.tinypic.com
+209.17.70.143	oi41.tinypic.com
+209.17.70.143	oi42.tinypic.com
+209.17.70.143	oi43.tinypic.com
+209.17.70.143	oi44.tinypic.com
+209.17.70.143	oi45.tinypic.com
+209.17.70.143	oi46.tinypic.com
+209.17.70.143	oi47.tinypic.com
+209.17.70.143	oi48.tinypic.com
+209.17.70.143	oi49.tinypic.com
+209.17.70.143	oi50.tinypic.com
+209.17.70.144	oi51.tinypic.com
+209.17.70.144	oi52.tinypic.com
+209.17.70.144	oi53.tinypic.com
+209.17.70.144	oi54.tinypic.com
+209.17.70.144	oi55.tinypic.com
+209.17.70.144	oi56.tinypic.com
+
+50.97.168.42	web1.twitpic.com
+50.23.200.233	web10.twitpic.com
+50.97.168.43	web2.twitpic.com
+50.97.168.43	web3.twitpic.com
+50.97.168.40	web4.twitpic.com
+50.97.168.41	web5.twitpic.com
+50.23.200.231	web6.twitpic.com
+50.23.200.232	web7.twitpic.com
+50.23.200.229	web8.twitpic.com
+50.23.200.228	web9.twitpic.com
+174.37.33.172	m1.twitpic.com
+50.23.200.230	twitpic.com
+
+208.94.0.61	a.yfrog.com
+208.94.0.61	yfrog.com
+208.94.0.61	www.yfrog.com
+#Twitter END
+
 #Adobe Activation START
 0.0.0.0	3dns-2.adobe.com
 0.0.0.0	3dns-3.adobe.com
@@ -667,7 +744,7 @@
 204.232.175.78	documentcloud.github.com
 207.97.227.239	github.com
 204.232.175.94	gist.github.com
-107.21.116.220	help.github.com
+107.20.136.254	help.github.com
 207.97.227.252	nodeload.github.com
 199.27.76.130	raw.github.com
 107.22.3.110	status.github.com
@@ -681,7 +758,7 @@
 #Feedly END
 
 #Others START
-38.229.72.14 www.torproject.org
+38.229.72.14	www.torproject.org
 #Others END
 
 #SmartHosts END
