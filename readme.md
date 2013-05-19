@@ -13,7 +13,7 @@ C:\Windows\System32\Drivers\etc
 >###1. hosts for google
   源自：https://code.google.com/p/smarthosts/
   有些朋友打不开便移过来一个。
-  更新时间：2013.4.2
+  更新时间：2013.5.18
 >###2. hosts fot apple
   自己研发~将hosts改到对于我来说最快的一个服务器= =（本人@北京）
   至于你们好不好使不知道了。
